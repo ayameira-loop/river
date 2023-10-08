@@ -65,6 +65,7 @@ setuptools.setup(
             "scikit-learn>=1.0.1",
             "sqlalchemy>=2.0.0",
             "sympy>=1.10.1",
+            "zstandard"
         ],
         "compat": base_packages
         + [
